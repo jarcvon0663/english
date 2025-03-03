@@ -1,0 +1,17 @@
+[
+    {
+        "IS": "JEA7",
+        "nombre": "Jeison Arturo Rios Castaño",
+        "puntaje": 100
+    },
+    {
+        "IS": "12345",
+        "nombre": "Juan Pérez",
+        "puntaje": 250
+    },
+    {
+        "IS": "67890",
+        "nombre": "María Gómez",
+        "puntaje": 100
+    }
+]
