@@ -1,17 +1,22 @@
 [
     {
-        "IS": "JEA7",
-        "nombre": "Jeison Arturo Rios Castaño",
-        "puntaje": 100
+        "IS":"JEA7",
+        "nombre":"Jeison Arturo Rios Casta\u00f1o",
+        "puntaje":100
     },
     {
-        "IS": "12345",
-        "nombre": "Juan Pérez",
-        "puntaje": 250
+        "IS":"DMBF",
+        "nombre":"Diana Marcela Bernal Forigua",
+        "puntaje":300
     },
     {
-        "IS": "67890",
-        "nombre": "María Gómez",
-        "puntaje": 100
+        "IS":"BG",
+        "nombre":"Brenda Guevara",
+        "puntaje":500
+    },
+    {
+        "IS":"DAGV",
+        "nombre":"Daniela Andrea Gonzalez Velandia",
+        "puntaje":200
     }
 ]
